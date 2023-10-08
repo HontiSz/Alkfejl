@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "6w+hvHLSuUJK+e2A5nLSX9jKyopFGDR4V5lSzcjpKV7MKeDTEa7b3wp9sdLuYh03S4g2RnKdS79671ELnAcsZg==",
+  "success": true,
+  "projectFilePath": "D:\\Suli\\Alkfejl2\\Alkfejl\\Project_1\\Project_1\\Project_1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Szabi\\.nuget\\packages\\cryptography.fernet\\1.1.1\\cryptography.fernet.1.1.1.nupkg.sha512",
+    "C:\\Users\\Szabi\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512",
+    "C:\\Users\\Szabi\\.nuget\\packages\\microsoft.identitymodel.abstractions\\7.0.2\\microsoft.identitymodel.abstractions.7.0.2.nupkg.sha512",
+    "C:\\Users\\Szabi\\.nuget\\packages\\microsoft.identitymodel.logging\\7.0.2\\microsoft.identitymodel.logging.7.0.2.nupkg.sha512",
+    "C:\\Users\\Szabi\\.nuget\\packages\\microsoft.identitymodel.tokens\\7.0.2\\microsoft.identitymodel.tokens.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
